@@ -1,0 +1,23 @@
+River
+////
+name : String
+fish : Array
+++++
+lose_fish(Fish)
+fish_count()
+
+Bear
+////
+name : String
+stomach : Array
+++++
+take_fish(Fish)
+roar
+food_count()
+
+
+Fish
+////
+name : String
+
+
